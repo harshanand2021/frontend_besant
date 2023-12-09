@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-family: Georgia;
+    font-size: 44px;
+}
+
+table,tr,th,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+    padding: 5px;
+    margin-left: 550px;
+    font-family: Georgia;
+    margin-top: 100px;
+}

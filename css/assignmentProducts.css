@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-family: Georgia;
+    font-size: 45px;
+}
+
+.productDetials{
+    font-family: Georgia;
+    font-size: 18px;
+    display: inline;
+}
+
+.desc{
+    font-family: inherit;
+    display: inline-block;
+}
