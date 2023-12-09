@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 46px;
+  color: cadetblue;
+}
+
+.parent {
+  border: 4px solid blue;
+  padding: 22px;
+  margin: 50px 50px;
+  font-family: "Calibri";
+  font-size: 21px;
+}
+
+.child {
+  border: inherit;
+  padding: inherit;
+  margin: inherit;
+  font-family: inherit;
+  font-size: inherit;
+}
