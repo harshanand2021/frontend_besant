@@ -1,0 +1,23 @@
+*{
+    font-family: 'calibri';
+    text-align: justify;
+}
+
+h1{
+    font-size: 44px;
+}
+
+h2{
+    font-family: 'Times New Roman';
+    font-size: 25px;
+}
+
+.taj{
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img {
+    border: 2px solid black;
+    width: 400px;
+}
