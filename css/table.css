@@ -1,0 +1,35 @@
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 55px;
+  align-items: center;
+  font-weight: 650;
+  margin-left: 450px;
+}
+ table,
+tr,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 4px;
+  font-size: 14px;
+}
+
+.students {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+  position: relative;
+  top: 0;
+  /* display: inline; */
+  /* margin: 70px; */
+}
+
+.employees {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+  /* margin: 50px; */
+  position: absolute;
+  padding: 2px;
+  left: 500px;
+  top: 0;
+}
