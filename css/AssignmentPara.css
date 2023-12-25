@@ -11,7 +11,7 @@ h1{
 .content{
     font-size: 18px;
     font-family: 'Georgia';
-    display: flex;
+    position: relative;
 }
 .menu ol li{
     display: inline;
@@ -21,14 +21,14 @@ h1{
     padding: 3px;
 }
 .content p{
-    justify-content: justify;
-    padding: 9px;
-    /* display: inline; */
+    position: absolute;
+    padding: 18px;
+    left: 19rem;
+    top: 3rem;
 }
 .content img{
     width: 300px;
+    position: relative;
     border-radius: 20px;
-    align-items: center;
-    display: inline-flex;
     filter: contrast(128%);
 }
